@@ -1,17 +1,21 @@
 <div align="center">
 
-# Public APIs
+<a href="https://sandip07-devolper.github.io/public-apis/"><img src="assets/banner.png" alt="Public APIs: every free API, one search away" width="100%"></a>
 
 **A free, community-curated directory of 2,493 public APIs and 61 MCP servers across 51 categories.**
 
-Find the right API in seconds. Filter by auth, HTTPS and CORS.
+[![Open live site](https://img.shields.io/badge/%F0%9F%94%8E_Open_the_live_search_site-ff5a1f?style=for-the-badge)](https://sandip07-devolper.github.io/public-apis/)
 
-[![APIs](https://img.shields.io/badge/APIs-2,493-111827?style=for-the-badge)](#-browse-by-category)
-[![No auth](https://img.shields.io/badge/No_auth_needed-1,182-16a34a?style=for-the-badge)](#-browse-by-category)
-[![Categories](https://img.shields.io/badge/Categories-51-2563eb?style=for-the-badge)](#-browse-by-category)
-[![License: MIT](https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge)](LICENSE)
+[![APIs](https://img.shields.io/badge/APIs-2,493-111827?style=flat-square)](#-browse-by-category)
+[![No auth](https://img.shields.io/badge/No_auth_needed-1,182-16a34a?style=flat-square)](#-browse-by-category)
+[![Categories](https://img.shields.io/badge/Categories-51-2563eb?style=flat-square)](#-browse-by-category)
+[![License: MIT](https://img.shields.io/badge/License-MIT-f59e0b?style=flat-square)](LICENSE)
 
-[**🔎 Search the directory**](https://sandip07-devolper.github.io/public-apis/) · [**📂 Browse categories**](#-browse-by-category) · [**🤖 MCP servers**](apis/mcp-servers.md) · [**🤝 Contribute**](CONTRIBUTING.md)
+[**📂 Browse categories**](#-browse-by-category) · [**🤖 MCP servers**](apis/mcp-servers.md) · [**🤝 Contribute**](CONTRIBUTING.md)
+
+<a href="https://sandip07-devolper.github.io/public-apis/"><img src="assets/site-preview.png" alt="Preview of the live search site" width="90%"></a>
+
+<sub>Click the image to try the live site with instant search and filters.</sub>
 
 </div>
 
